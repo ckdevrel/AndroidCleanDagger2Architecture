@@ -4,9 +4,6 @@ import android.content.SharedPreferences;
 
 import dagger.Provides;
 
-/**
- * Created by f22labs on 08/04/17.
- */
 
 public class DaggerPresenterImpl implements DaggerPresenter {
 
